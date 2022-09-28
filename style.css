@@ -142,7 +142,7 @@ footer {
 }
 .year {
 	position: absolute;
-	right: 3px;
+	right: 1px;
 	font-style: italic;
 	font-weight: normal;
 }
