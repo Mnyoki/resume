@@ -14,7 +14,7 @@ html, body {
 }
 
 body {
-	/*zoom: 94.75%;*/ /* Used for printing in Chrome */
+	/*zoom: 94.75%; /* Used for printing in Chrome */
 }
 
 a {
@@ -101,7 +101,7 @@ footer {
  */
 
 .middle {
-	font-size: 12px;
+	font-size: 14px;
 	position: relative;
 	padding: 0 30px;
 }
@@ -138,11 +138,11 @@ footer {
 .job {
 	margin: 10px 0 3px;
 	font-weight: bold;
-	font-size: 13px;
+	font-size: 16px;
 }
 .year {
 	position: absolute;
-	right: 30px;
+	right: 3px;
 	font-style: italic;
 	font-weight: normal;
 }
@@ -163,6 +163,7 @@ footer {
 .project-header {
 	font-size: 13px;
 	font-style: italic;
+	font-weight: bold;
 }
 
 
@@ -238,7 +239,7 @@ background-color: blue;
 #education, #research {
 	width: 47%;
 	display: inline-block;
-	font-size: 12px;
+	font-size: 16px;
 }
 #education ul, #research ul {
 	list-style: none;
